@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 190" width="600" height="190">
+  <rect width="600" height="190" rx="12" fill="#0E1E3D"/>
+  <text
+    x="300" y="120"
+    text-anchor="middle"
+    font-family="'Rajdhani', 'Impact', Arial, sans-serif"
+    font-size="96" font-weight="700" letter-spacing="18"
+    fill="#FFFFFF">PLOKY</text>
+  <rect x="108" y="136" width="384" height="3" rx="1" fill="#60A5FA"/>
+  <text
+    x="300" y="172"
+    text-anchor="middle"
+    font-family="'Rajdhani', Arial, sans-serif"
+    font-size="21" font-weight="400" letter-spacing="10"
+    fill="#60A5FA">Play_Log_Key</text>
+</svg>
