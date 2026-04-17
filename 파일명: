@@ -1,0 +1,11 @@
+{
+  "name": "ploky-logo",
+  "version": "1.0.0",
+  "description": "Ploky brand logo assets and PNG generator",
+  "scripts": {
+    "generate": "node generate-png.js"
+  },
+  "dependencies": {
+    "sharp": "^0.33.3"
+  }
+}
